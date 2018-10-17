@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduama\\Desktop\\katas\\code\\code.csproj",
+      "projectUniqueName": "c:\\Users\\eduama\\code\\personal\\katas\\code\\code.csproj",
       "projectName": "code",
-      "projectPath": "C:\\Users\\eduama\\Desktop\\katas\\code\\code.csproj",
+      "projectPath": "c:\\Users\\eduama\\code\\personal\\katas\\code\\code.csproj",
       "packagesPath": "C:\\Users\\eduama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eduama\\Desktop\\katas\\code\\obj\\",
+      "outputPath": "c:\\Users\\eduama\\code\\personal\\katas\\code\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

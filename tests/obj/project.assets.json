@@ -5827,11 +5827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\eduama\\Desktop\\katas\\tests\\tests.csproj",
+      "projectUniqueName": "c:\\Users\\eduama\\code\\personal\\katas\\tests\\tests.csproj",
       "projectName": "tests",
-      "projectPath": "c:\\Users\\eduama\\Desktop\\katas\\tests\\tests.csproj",
+      "projectPath": "c:\\Users\\eduama\\code\\personal\\katas\\tests\\tests.csproj",
       "packagesPath": "C:\\Users\\eduama\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\eduama\\Desktop\\katas\\tests\\obj\\",
+      "outputPath": "c:\\Users\\eduama\\code\\personal\\katas\\tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5850,8 +5850,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "c:\\Users\\eduama\\Desktop\\katas\\code\\code.csproj": {
-              "projectPath": "c:\\Users\\eduama\\Desktop\\katas\\code\\code.csproj"
+            "c:\\Users\\eduama\\code\\personal\\katas\\code\\code.csproj": {
+              "projectPath": "c:\\Users\\eduama\\code\\personal\\katas\\code\\code.csproj"
             }
           }
         }
