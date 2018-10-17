@@ -1,0 +1,17 @@
+c:\Users\eduama\Desktop\katas\tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\eduama\Desktop\katas\tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\eduama\Desktop\katas\tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\eduama\Desktop\katas\tests\bin\Debug\netcoreapp2.1\tests.deps.json
+c:\Users\eduama\Desktop\katas\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.json
+c:\Users\eduama\Desktop\katas\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.dev.json
+c:\Users\eduama\Desktop\katas\tests\bin\Debug\netcoreapp2.1\tests.dll
+c:\Users\eduama\Desktop\katas\tests\bin\Debug\netcoreapp2.1\tests.pdb
+c:\Users\eduama\Desktop\katas\tests\obj\Debug\netcoreapp2.1\tests.csprojAssemblyReference.cache
+c:\Users\eduama\Desktop\katas\tests\obj\Debug\netcoreapp2.1\tests.csproj.CoreCompileInputs.cache
+c:\Users\eduama\Desktop\katas\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfoInputs.cache
+c:\Users\eduama\Desktop\katas\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfo.cs
+c:\Users\eduama\Desktop\katas\tests\obj\Debug\netcoreapp2.1\tests.dll
+c:\Users\eduama\Desktop\katas\tests\obj\Debug\netcoreapp2.1\tests.pdb
+C:\Users\eduama\Desktop\katas\tests\bin\Debug\netcoreapp2.1\code.dll
+C:\Users\eduama\Desktop\katas\tests\bin\Debug\netcoreapp2.1\code.pdb
+C:\Users\eduama\Desktop\katas\tests\obj\Debug\netcoreapp2.1\tests.csproj.CopyComplete

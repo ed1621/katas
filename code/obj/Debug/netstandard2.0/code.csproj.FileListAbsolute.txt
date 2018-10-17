@@ -1,0 +1,9 @@
+c:\Users\eduama\Desktop\katas\code\bin\Debug\netstandard2.0\code.deps.json
+c:\Users\eduama\Desktop\katas\code\bin\Debug\netstandard2.0\code.dll
+c:\Users\eduama\Desktop\katas\code\bin\Debug\netstandard2.0\code.pdb
+c:\Users\eduama\Desktop\katas\code\obj\Debug\netstandard2.0\code.csprojAssemblyReference.cache
+c:\Users\eduama\Desktop\katas\code\obj\Debug\netstandard2.0\code.csproj.CoreCompileInputs.cache
+c:\Users\eduama\Desktop\katas\code\obj\Debug\netstandard2.0\code.AssemblyInfoInputs.cache
+c:\Users\eduama\Desktop\katas\code\obj\Debug\netstandard2.0\code.AssemblyInfo.cs
+c:\Users\eduama\Desktop\katas\code\obj\Debug\netstandard2.0\code.dll
+c:\Users\eduama\Desktop\katas\code\obj\Debug\netstandard2.0\code.pdb
